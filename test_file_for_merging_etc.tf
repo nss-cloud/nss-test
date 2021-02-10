@@ -1,6 +1,6 @@
 # test file for merging etc
 
-tf-aws-resouece-resource "aws_instance" "" {
+tf-aws-resouece-resource "aws_instance2" "" {
     ami                         = "${var._ec2_ami}"
     availability_zone           = "${element(var.availability_zones, count.index)}"
     ebs_optimized               = false

@@ -6,3 +6,4 @@ a 5th line (original)
 
 a 7th line (original)
 
+A file in TEST2-Branch
